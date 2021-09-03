@@ -7,12 +7,11 @@ This is important for several reasons:
 
 1. It serves as a way to track the history of your own work so you can review
    what you've done in the past
-2. It  allows Mx. Collard to monitor your progress and attempt to help course
+2. It  allows Mr. DeVaughn-Brown to monitor your progress and attempt to help course
    correct as early as possible.
 3. It provides practice for working with the command line, `git`, and
    [Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-4. It will provide a single place for Mx. Collard to distribute utility
-   functions for you to use throughout the year.
+
 
 ## Project 1: Beginning a Log
 
@@ -131,11 +130,10 @@ by your lastname. For example, Joseph Collard would become jcollard. To do this
 *I* would run the following series of commands:
 
 ```
-git checkout -b jcollard # This creates a new branch called jcollard and moves the repository to use it
-git push -u origin jcollard # This pushes the new branch to Github
+git checkout -b development # This creates a new branch called development and moves the repository to use it
+git push -u origin development # This pushes the new branch to Github
 ```
 
-Note: You will need to change `jcollard` to be the correct name for your branch.
 
 Each time you create an entry, you should add that entry to your branch, commit
 it, and push it to GitHub.
@@ -180,7 +178,6 @@ To make writing log entries easier, you will create a script
 
 ### Grading
 
-Due date: Monday, September 28th, 2020 08:00 AM
 
 As with all projects in this course, you will receive three equally weighted
 grades: Computational Thinking, Computing Practice and Programming, and Skills
@@ -199,7 +196,3 @@ encouraged to help other students who post on Piazza (see: Skills of a Student -
 #2: Work cooperatively and collaboratively with peers). When you post your
 question, be sure to include as many details as possible for reproducing the
 issue you're having. Screenshot are highly encouraged!
-
-If you would like to meet to discuss synchronously, first, look at [Mx.
-Collard's Calendar](http://tinyurl.com/mx-collard-calendar), then send them an
-email with at least two proposed times you would like to meet.
