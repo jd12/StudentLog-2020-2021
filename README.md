@@ -184,7 +184,7 @@ grades: Computational Thinking, Computing Practice and Programming, and Skills
 of a Student. Full details on these can be found on Power School.
 
 *Note*: To receive full credit for the Skills of a Student category, you must
-make commits through out the duration of this project. These should include log
+make commits through out the duration of a project. These should include log
 entries for *ALL* work done in this class, not just on this project. For
 example, if you work on Udacity Course Lession 5, that should be present in your
 log.
