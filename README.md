@@ -25,7 +25,7 @@ This is important for several reasons:
 
 ### Overview
 
-The first project is to fork this repository and create two log entries each
+The first project is to clone this repository and create two log entries each
 time you work on something for this class. The first log entry is a sign-on log
 entry and should be created before you start working. A sign-on entry should
 contain what you are setting out to accomplish. The second log entry is a
