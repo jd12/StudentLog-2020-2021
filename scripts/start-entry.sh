@@ -4,3 +4,4 @@ touch $FILENAME
 echo "# $(date +'%A, %B %e, %Y %I:%M %p')" >> $FILENAME
 echo "- [ ]" >> $FILENAME
 /Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code $FILENAME
+
