@@ -26,6 +26,23 @@ cp bash_profile_course ~/.bash_profile
 
 Close your terminal and reopen it and you should see your terminal in colors.
 
+**Set up git user profile**
+```
+git config --global user.name "Mona Lisa"
+git config --global user.email "mona.lisa@gmail.com"
+```
+**Set Visual Studio Code as the default editor**
+```
+git config --global core.editor "code --wait"
+```
+
+**Adjust git config settings**
+```
+git config --global pull.rebase true
+git config --global diff.colorMoved zebra
+```
+
+
 ## Overview
 
 This repository serves as a log of work you've done and work you intend to do.
