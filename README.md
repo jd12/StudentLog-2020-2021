@@ -5,13 +5,26 @@ Each person needs to clone this repository onto their local machine.
 
 After cloning this repository you want to cd into the repository and run these commands
 
+**Change into the git_files directory**
+```
+cd git_files
+```
+
+**Set up the git commit template**
 ```
 cp git-commit-template.txt ~/.git-commit-template.txt
 git config --global commit.template ~/.git-commit-template.txt
 ```
-
 This will set up a commit template to automatically bring up the file to remind you of the format I want.
 
+**Set up the bash profile**
+```
+cp git-prompt.sh ~/git-prompt.sh
+cp git-completion.bash ~/git-completion.bash
+cp bash_profile_course ~/.bash_profile
+```
+
+Close your terminal and reopen it and you should see your terminal in colors.
 
 ## Overview
 
