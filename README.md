@@ -1,5 +1,18 @@
 # Student Log
 
+## Setup
+Each person needs to clone this repository onto their local machine.
+
+After cloning this repository you want to cd into the repository and run these commands
+
+```
+cp git-commit-template.txt ~/.git-commit-template.txt
+git config --global commit.template ~/.git-commit-template.txt
+```
+
+This will set up a commit template to automatically bring up the file to remind you of the format I want.
+
+
 ## Overview
 
 This repository serves as a log of work you've done and work you intend to do.
